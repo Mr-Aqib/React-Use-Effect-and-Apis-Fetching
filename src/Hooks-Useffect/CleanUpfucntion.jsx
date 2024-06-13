@@ -18,7 +18,7 @@ export const CleanUpfucntion = () => {
     })
   return (
       <>
-          <div className="container-fluid bg-dark p-4">
+          <div className="my-3 container-fluid bg-dark p-4">
               <div className="container d-flex flex-column align-items-center justify-content-center">
                   <h1 className='text-white'>Clean Up function</h1>
                   <h3 className='text-white'>Window Size : <span>{ window.innerWidth}</span>px</h3>

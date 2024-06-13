@@ -5,9 +5,10 @@ import Apisfetch from './Apis/Apisfetch'
 
 const App = () => {
   return (
-         <>
-      {/* <UseEffect />
-      <CleanUpfucntion /> */}
+    <>
+     
+      <UseEffect />
+      <CleanUpfucntion />
       <Apisfetch/>
       </>
   )
